@@ -1,0 +1,8 @@
+{
+  "name": "历史网页时点协商与版本证据采集",
+  "probe": "/timeline",
+  "identityFields": [
+    "original",
+    "capture"
+  ]
+}
